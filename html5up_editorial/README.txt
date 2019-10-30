@@ -15,3 +15,5 @@ Vérifier et adapter les modèles où qu'on les insère => ok pour <iconebloc> -
 Retrouver le multilinguisme 
 Adapter les autres objets SPIP (mots, sites, brèves)
 Se passer de google api pour les typos ? - OK en v1.1.7
+
+Test pour branch modif_css
